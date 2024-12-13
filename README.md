@@ -10,14 +10,14 @@ b.CSS (Cascading Style Sheets):
     1.CSS is used to style and format the HTML content, ensuring a polished and professional look.
     2.Key Features Include:
 
-  a.Selectors: Classes (e.g., .hero, .features) and element-based selectors are used for styling.
-  b.Responsive Design: Media queries (@media) enable the page to adapt seamlessly to various devices (desktop, tablet, and mobile).
-  c.Layout Techniques: CSS Grid and Flexbox are implemented to create structured, flexible layouts.
-  d.Font Styling: Customized typography with properties such as font-family, font-size, and font-weight.
-  e.Colors & Backgrounds: Defined using HEX and RGBA values, creating visually consistent design.
-  f.Transitions: Smooth animations are applied for hover effects and interactive elements.
-  g.Box Shadows & Borders: Aesthetic enhancements using box-shadow, border-radius, and more.
-  c.Sass (Syntactically Awesome Style Sheets): The code contains Sass code. Sass is a preprocessor for CSS. It allows for the use of variables (e.g., $header-title-color) and mixins (e.g., @mixin and @content) to make the i.CSS more maintainable and efficient.
+    a.Selectors: Classes (e.g., .hero, .features) and element-based selectors are used for styling.
+    b.Responsive Design: Media queries (@media) enable the page to adapt seamlessly to various devices (desktop, tablet, and mobile).
+    c.Layout Techniques: CSS Grid and Flexbox are implemented to create structured, flexible layouts.
+    d.Font Styling: Customized typography with properties such as font-family, font-size, and font-weight.
+    e.Colors & Backgrounds: Defined using HEX and RGBA values, creating visually consistent design.
+    f.Transitions: Smooth animations are applied for hover effects and interactive elements.
+    g.Box Shadows & Borders: Aesthetic enhancements using box-shadow, border-radius, and more.
+    c.Sass (Syntactically Awesome Style Sheets): The code contains Sass code. Sass is a preprocessor for CSS. It allows for the use of variables (e.g., $header-title-color) and mixins (e.g., @mixin and @content) to make the i.CSS more maintainable and efficient.
 
 d.Responsive Web Design: Ensures usability across a wide range of devices and screen sizes, with specific styling adjustments for tablets and smartphones.
 
